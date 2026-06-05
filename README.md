@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/mohamedahmed-swe">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0077B6&size=35&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;AWS+Academy+Graduate;Cloud+%26+Embedded+Systems+Engineer;Problem+Solver+%25+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0077B6&size=35&center=true&vCenter=true&width=500&height=100&lines=Software+Engineering+Student;AWS+Academy+Graduate;Cloud+%26+Embedded+Systems+Engineer;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
